@@ -42,7 +42,7 @@ We welcome contributions from the community! Whether it’s bug fixes, feature r
 
 ## 🛡️ License
 
-Spectrum is licensed under the [MIT License](https://github.com/DarthStrantax/Spectrum/LICENSE).
+Spectrum is licensed under the [MIT License](https://github.com/DarthStrantax/Spectrum/blob/main/LICENSE).
 
 ## 💬 Support
 
