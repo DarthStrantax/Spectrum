@@ -31,9 +31,9 @@ People with hacking tools will face immense challenges when attempting to breach
 
 Spectrum comes equipped with a variety of commands for administrators. Here are just a few examples:
 
-- `!kick [player]`: Removes a player from the server.
-- `!ban [player]`: Permanently bans a player from the game.
-- `!tp [player1] [player2]`: Teleports player1 to player2.
+- `:kick [player]`: Removes a player from the server.
+- `:ban [player]`: Permanently bans a player from the game.
+- `:tp [player1] [player2]`: Teleports player1 to player2.
 
 
 ## 🧑‍💻 Contributing
